@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hosted by Monish :)
+          Hosted by Monish
         </a>
       </header>
     </div>
